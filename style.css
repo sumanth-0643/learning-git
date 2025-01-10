@@ -1,0 +1,9 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Poppins', 'Courier New', Courier, monospace;
+}
+body {
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
