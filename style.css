@@ -29,12 +29,3 @@ body {
     border-radius: 5px;
     transition: all 0.25s ease-in-out;
 }
-h2 {
-    margin: 0;
-}
-p {
-    margin-top: 0;
-}
-.main-section {
-    padding: 0 20px;
-}
