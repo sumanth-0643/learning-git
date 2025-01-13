@@ -8,3 +8,11 @@ function sayHi(){
     console.log('Hello World!!')
 }
 sayHi()
+
+const findCarDetails = {
+    carBrand: 'Volkswagen',
+    carModel: 'Virtus',
+    carVariant: 'TSI Petrol',
+    carSegment: 'Sedan',
+}
+console.log(findCarDetails)
