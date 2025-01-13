@@ -12,7 +12,7 @@ sayHi()
 const findCarDetails = {
     carBrand: 'Volkswagen',
     carModel: 'Virtus',
-    carVariant: 'TSI Petrol'
-    carSegment: 'Sedan'
+    carVariant: 'TSI Petrol',
+    carSegment: 'Sedan',
 }
 console.log(findCarDetails)
