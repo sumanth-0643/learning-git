@@ -9,10 +9,11 @@ function sayHi(){
 }
 sayHi()
 
-const findCarDetails = {
-    carBrand: 'Volkswagen',
-    carModel: 'Virtus',
+const fetchCarDetails = {
+    carBrand: 'Skoda',
+    carModel: 'Slavia',
     carVariant: 'TSI Petrol',
     carSegment: 'Sedan',
+    carRegNo: 'KA14SP1702'
 }
-console.log(findCarDetails)
+console.log(fetchCarDetails)
