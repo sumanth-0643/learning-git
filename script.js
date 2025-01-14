@@ -14,5 +14,6 @@ const findCarDetails = {
     carModel: 'Virtus',
     carVariant: 'TSI Petrol',
     carSegment: 'Sedan',
+    carRegNo: 'KA14PS0205'
 }
 console.log(findCarDetails)
