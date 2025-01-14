@@ -10,8 +10,8 @@ function sayHi(){
 sayHi()
 
 const fetchCarDetails = {
-    carBrand: 'Skoda',
-    carModel: 'Slavia',
+    carBrand: 'Volkswagen',
+    carModel: 'Virtus',
     carVariant: 'TSI Petrol',
     carSegment: 'Sedan',
     carRegNo: 'KA14PS0205'
