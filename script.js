@@ -14,6 +14,11 @@ const fetchCarDetails = {
     carModel: 'Virtus',
     carVariant: 'TSI Petrol',
     carSegment: 'Sedan',
-    carRegNo: 'KA14PS0205'
+    carRegNo: 'KA14PS0205',
+    carOwnerDetails: {
+        ownerName: 'Sumanth',
+        location: 'Thirthahalli',
+        pinCode: 577220,
+    }
 }
 console.log(fetchCarDetails)
