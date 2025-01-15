@@ -22,3 +22,6 @@ const fetchCarDetails = {
     }
 }
 console.log(fetchCarDetails)
+
+const carArray = ['Volkswagen', 'Skoda', 'Toyota', 'Honda', 'Hyundai']
+console.log(carArray)
