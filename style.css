@@ -29,3 +29,37 @@ body {
     border-radius: 5px;
     transition: all 0.25s ease-in-out;
 }
+h2 {
+    margin-bottom: 0;
+    color: yellowgreen;
+}
+p {
+    margin-top: 0;
+}
+.main-section {
+    padding-inline: 30px;
+}
+h1 {
+    color: orange;
+}
+::selection {
+    color: orange;
+}
+.q-n-a-section {
+    width: 100%;
+    max-width: 70%;
+    /* border: 2px solid orange; */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 2px 5px rgba(29, 27, 27, 0.9);
+    transition: all 0.25s ease-in-out;
+}
+.q-n-a-section:hover {
+    box-shadow: 0 0 15px 10px rgba(234, 165, 4, 0.5);
+}
+
+@media screen and (max-width: 768px) {
+    .q-n-a-section {
+        max-width: 100%;
+    }
+}
