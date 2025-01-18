@@ -57,6 +57,10 @@ h1 {
 .q-n-a-section:hover {
     box-shadow: 0 0 15px 10px rgba(234, 165, 4, 0.5);
 }
+.copyrights-text {
+    margin-top: 20px;
+    margin-left: 20vw;
+}
 .comment-box {
     width: 100%;
     max-width: 30%;

@@ -27,3 +27,12 @@ const carArray = ['Volkswagen', 'Skoda', 'Toyota', 'Honda', 'Hyundai']
 console.log(carArray)
 
 console.log(fetchCarDetails.carOwnerDetails)
+
+const copyRightYear = document.getElementById('year-update')
+
+function updateYear(){
+    yearUpdate = new Date().getFullYear()
+    copyRightYear.textContent = yearUpdate
+    console.log(yearUpdate)
+}
+updateYear()
